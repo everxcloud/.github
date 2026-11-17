@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://everxcloud.ai/?utm_source=github&utm_medium=readme&utm_campaign=brand">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/everxcloud-logo-on-dark.svg">
+      <img src="assets/everxcloud-logo-on-light.svg" alt="EverXCloud: Every GPU. One provider." width="420">
+    </picture>
+  </a>
+</p>
+
 # EverXCloud
 
 EverXCloud is a US spot exchange for renting cloud GPUs by the hour.
